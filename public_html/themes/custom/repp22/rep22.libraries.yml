@@ -1,0 +1,8 @@
+rep22:
+  version: VERSION
+  css:
+    theme:
+      dist/css/gin.css: { minified: false }
+  dependencies:
+    - gin/gin_ckeditor
+
